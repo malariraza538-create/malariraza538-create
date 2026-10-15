@@ -2,7 +2,7 @@
 
 🚀 
 
-## 🛠️ Tech Stack & Tools# Hi there 👋 I'm YousufCoder6
+## 🛠️ Tech Stack & Tools# Hi there 👋 I'm owais coder786
 
 - 💻 Front-End Web Development Student at SMIT
 - 🌱 Passionate about building clean, responsive, and user-friendly web pages
@@ -44,7 +44,7 @@
 
 ## 📊 GitHub Activity & Stats
 
-[![Owais coder786 GitHub stats](https://github-readme-stats.vercel.app/api?username=Owais coder7866&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Owaiscoder786 GitHub stats](https://github-readme-stats.vercel.app/api?username-Owaiscoder786&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Owais coder786&theme=dark)](https://git.io/streak-stats)
 
