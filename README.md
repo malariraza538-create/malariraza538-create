@@ -1,32 +1,65 @@
-👋 Hi, I'm Owais Raza
+<!-- Animated Header Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi+There!+%F0%9F%90%8B;I'm+Owais+(malangraza538);Front-End+Web+Developer;Welcome+to+my+Profile!+%E2%9C%A8" alt="Typing SVG" />
+</p>
 
-🚀 
+<!-- Animated Wave & Intro -->
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/MartinLopezz/MartinLopezz/main/wave.gif" width="30px"> 👋 Welcome to my GitHub Space!
+</h3>
 
-## 🛠️ Tech Stack & Tools# Hi there 👋 I'm owais coder786
+<p align="center">
+  💻 <b>Front-End Web Development Student</b><br>
+  🌱 Passionate about building clean, responsive, and user-friendly web pages.<br>
+  💬 Ask me about <b>HTML, CSS, JavaScript, and basic web design</b>.
+</p>
 
-- 💻 Front-End Web Development Student at SMIT
-- 🌱 Passionate about building clean, responsive, and user-friendly web pages
-- 📫 How to reach me: malariraza538@gmail.com
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+---
 
+### 🤝 Connect & Collaborate
 
+<p align="left">
+  <a href="https://instagram.com/ayan_toxci_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="mailto:yousufkhatri444@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-🛠️ Skills
+---
 
-- HTML5
-- CSS3
-- JavaScript
-- Responsive Web Design
-- UI/UX Design
+### 🛠️ Tech Stack & Tools (Animated Icons)
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,netlify&theme=dark" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=malangraza538&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malangraza538&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malangraza538&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<!-- Animated Footer Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 🌟 Featured Projects
 
 - Tanger Star Voice — A social voice-chat app project.
@@ -40,24 +73,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayan_toxci_@gmail.com)
 
 
-🎯 Current Goals
-
-## 📊 GitHub Activity & Stats
-## 📊 GitHub Activity & Stats
-
-[![owaiscoder786's GitHub stats](https://github-readme-stats.vercel.app/api?username=owaisCoder786&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=owaisCoder786&theme=dark)](https://git.io/streak-stats)
 
 
 
-
-- Improve my web development skills.
-- Build useful and user-friendly applications.
-- Learn backend development and databases.
-
-🤝 Let's Connect
-
-I'm open to learning opportunities, collaborations, and suitable freelance projects.
-
-⭐ Thanks for visiting my profile!
+-
