@@ -43,10 +43,14 @@
 🎯 Current Goals
 
 ## 📊 GitHub Activity & Stats
+## 📊 GitHub Activity & Stats
 
-[![Owaiscoder786 GitHub stats](https://github-readme-stats.vercel.app/api?username-Owaiscoder786&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![owaiscoder786's GitHub stats](https://github-readme-stats.vercel.app/api?username=owaisCoder786&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Owais coder786&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=owaisCoder786&theme=dark)](https://git.io/streak-stats)
+
+
+
 
 - Improve my web development skills.
 - Build useful and user-friendly applications.
