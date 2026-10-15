@@ -1,10 +1,12 @@
 👋 Hi, I'm Owais Raza
 
-🚀 Web Developer | UI/UX Designer
+🚀 
 
-Welcome to my GitHub profile! I enjoy building responsive websites and exploring modern web technologies.
+## 🛠️ Tech Stack & Tools# Hi there 👋 I'm YousufCoder6
 
-## 🛠️ Tech Stack & Tools
+- 💻 Front-End Web Development Student at SMIT
+- 🌱 Passionate about building clean, responsive, and user-friendly web pages
+- 📫 How to reach me: malariraza538@gmail.com
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,7 +33,20 @@ Welcome to my GitHub profile! I enjoy building responsive websites and exploring
 - Calculator — A web calculator project.
 - Facebook UI — A frontend practice project.
 
+
+## 🤝 Connect & Collaborate
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](Aapka_Instagram_Link)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayan_toxci_@gmail.com)
+
+
 🎯 Current Goals
+
+## 📊 GitHub Activity & Stats
+
+[![Owais coder786 GitHub stats](https://github-readme-stats.vercel.app/api?username=Owais coder7866&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Owais coder786&theme=dark)](https://git.io/streak-stats)
 
 - Improve my web development skills.
 - Build useful and user-friendly applications.
